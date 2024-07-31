@@ -112,6 +112,7 @@ enum class GameID
 	WMMT5DXPlus,
 	WMMT6,
 	WMMT6R,
+	WMMT6RR,
 	GGS,
 	Umifresh,
 	UmifreshTest,
