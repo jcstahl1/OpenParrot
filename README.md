@@ -2,7 +2,7 @@
 
 Open Source version of TeknoParrot by NTA, avail and Reaver. Works in collaboration with: 
 
-[TeknoParrotUI](https://github.com/teknogods/TeknoParrotUI).
+[TeknoParrotUI](https://github.com/teknogods/TeknoParrotUI)
 
 [TeknoParrot Discord](https://discord.gg/kmWgGDe)
 
