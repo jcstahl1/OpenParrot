@@ -1,3 +1,5 @@
+This should be considered dead.  I did this before official support was added in TP with a little help from valkyrieasyraf.
+
 # OpenParrot
 
 Open Source version of TeknoParrot by NTA, avail and Reaver. Works in collaboration with: 
